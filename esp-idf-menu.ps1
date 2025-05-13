@@ -54,7 +54,6 @@ function Show-Help {
     Write-Host "===============================" -ForegroundColor Yellow
 }
 
-
 function Show-Loading {
     $spinner = @('|', '/', '-', '\')
     $index = 0
